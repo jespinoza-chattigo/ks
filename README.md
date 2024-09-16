@@ -57,4 +57,4 @@ El script listará los contextos disponibles y te permitirá seleccionar uno usa
 Si deseas contribuir al proyecto, siéntete libre de abrir un **Pull Request** o reportar un **Issue**.
 
 ## Ejemplo
-![Ejemplo de uso](https://imgur.com/65iBnXw)
+[Imgur](https://imgur.com/65iBnXw)
