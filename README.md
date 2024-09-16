@@ -55,3 +55,6 @@ El script listará los contextos disponibles y te permitirá seleccionar uno usa
 ## Contribuciones
 
 Si deseas contribuir al proyecto, siéntete libre de abrir un **Pull Request** o reportar un **Issue**.
+
+## Ejemplo
+![Ejemplo de uso](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZiODc4c2ViM3d0amNtMTZzend4N3Q1MDhza3BkazN3Y3JmajZpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tgRmO4RXqeBiXUGKcK/giphy.gif)
